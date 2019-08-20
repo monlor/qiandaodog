@@ -1,0 +1,70 @@
+[
+    {
+		"Name": "baidu",
+		"Cookie": ""
+	},
+	{
+		"Name": "v2ex",
+		"Cookie": ""
+	},
+	{
+		"Name": "hostloc",
+		"Cookie": ""
+	},
+	{
+		"Name": "acfun",
+		"Cookie": ""
+	},
+	{
+		"Name": "bilibili",
+		"Cookie": ""
+	},
+	{
+		"Name": "163music",
+		"Cookie": ""
+	},
+	{
+		"Name": "miui",
+		"Cookie": ""
+	},
+	{
+		"Name": "52pojie",
+		"Cookie": ""
+	},
+	{
+		"Name": "kafan",
+		"Cookie": ""
+	},
+	{
+		"Name": "smzdm",
+		"Cookie": ""
+	},
+	{
+		"Name": "gztown",
+		"Cookie": ""
+	},
+	{
+		"Name": "meizu",
+		"Cookie": ""
+	},
+	{
+		"Name": "hdpfans",
+		"Cookie": ""
+	},
+	{
+		"Name": "chh",
+		"Cookie": ""
+	},
+	{
+		"Name": "koolshare",
+		"Cookie": ""
+	},
+	{
+		"Name": "right",
+		"Cookie": ""
+	},
+	{
+		"Name": "huawei",
+		"Cookie": ""
+	}
+]

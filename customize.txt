@@ -1,0 +1,24 @@
+[
+    {
+        "Name":"Demo",
+        "Url":"https://demo",
+        "Cookie":"111",
+        "Types":"Get",
+        "Ua":""
+    },
+    {
+        "Name":"Demo",
+        "Url":"https://demo",
+        "Cookie":"111",
+        "Types":"Post",
+        "Ua":"",
+        "Value":[
+            {
+                "Name":"1",
+                "Value":"2"
+                
+            }
+        ]
+    }
+
+]
