@@ -43,4 +43,4 @@
         koolshare       - koolshare论坛
         right           - 恩山论坛
         huawei          - 花粉俱乐部
-        ~~jd            - 移动端京东金融钢镚&京东领流量（因Cookie有效期为一天，故已删除）~~
+~~jd            - 移动端京东金融钢镚&京东领流量（因Cookie有效期为一天，故已删除）~~
